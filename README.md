@@ -1,4 +1,4 @@
 # VERICEKME-SCRAPY
 PYTHON SCRAPY ILE VERI CEKMEYI GOSTERICEM
 
-![SCRAPY](https://user-images.githubusercontent.com/55101344/87232203-c0de7700-c3c5-11ea-86d3-64375a5833de.PNG)
+![SCRAPY2](https://user-images.githubusercontent.com/55101344/87232285-537f1600-c3c6-11ea-951c-f27cf2522fd4.PNG)
