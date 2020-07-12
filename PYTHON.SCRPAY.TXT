@@ -26,7 +26,7 @@ CD PROJE_ADINIZ
 SCRAPY GENSPIDER DATA(ISIM) WWWW.VERICEKECEGINIZSITE.COM
 -----------------------------------------------------------------------------+
 DOSYANIZ ICINE SCRAPY DOSYALARI YUKLENMISTIR HERHANGI BIR IDE ATABILIRSINIZ  |
-                                                                             |
+import scrapy ile import edebilirsiniz                                       |
                                                                              |
 CEKECEGINIZ BIR DIVIN CLASS NAME ILE XPATH YAPMA                             | 
                                                                              |
